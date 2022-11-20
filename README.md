@@ -14,7 +14,7 @@
 - 💞️ I believe in the power of the Web to make the world a better place, always happy to collaborate on projects that share this vision
 - 🛠️ Toolset [includes](https://stacksage.com/posts/5/setting-up-a-development-environment/) Ubuntu, MacOS, Windows / [WSL](https://stacksage.com/posts/4/developing-on-windows-with-wsl/), WebStorm, PNPM, GitHub & GitLab, Hyper, Starship, and Hack
 - 🦄 Did I mention that [Stylus](https://stylus-lang.com/) is awesome?
-- 📫 [Shoot me a message](https://gidhon.com/contact/)
+- 📫 [Shoot me a message!](https://gidhon.com/contact/)
 
 <!---
 gidhon/gidhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
