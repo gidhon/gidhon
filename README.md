@@ -8,7 +8,7 @@
   - Accessability
   - Taxonomy, Semantics, Codebase Architecture (monorepos et al)
   - Graphic and User Experience Design
-  - [Bit](https://bit.dev/), [Rush](https://rushjs.io/), [Vitest](https://vitest.dev/)
+  - [Bit](https://bit.dev/), [Rush](https://rushjs.io/), [Vitest](https://vitest.dev/), [Playwright](https://playwright.dev/)
   - [Frontend Development Platforms](https://platframe.com/) and the JAMStack paradigm
 - 🌱 I’m always learning JavaScript (who isn't?) and currently fiddling with—and excited by—[SvelteKit](https://kit.svelte.dev/)
 - 💞️ I believe in the power of the Web to make the world a better place, always happy to collaborate on projects that share this vision
