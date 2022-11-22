@@ -6,7 +6,7 @@
   - Test Automation
   - Database Design
   - Accessability
-  - Taxonomy, Semantics, Codebase Architecture (monorepos et al)
+  - Taxonomy, Semantics, Codebase Architecture
   - Graphic and User Experience Design
   - [Bit](https://bit.dev/), [Rush](https://rushjs.io/), [Vitest](https://vitest.dev/), [Playwright](https://playwright.dev/)
   - [Frontend Development Platforms](https://platframe.com/) and the JAMStack paradigm
